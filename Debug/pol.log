@@ -1,2 +1,5 @@
 ﻿  pol.cpp
+c:\users\anna9\source\repos\pol\pol\pol.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna9\source\repos\pol\pol\pol.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anna9\source\repos\pol\pol\pol.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
   pol.vcxproj -> C:\Users\anna9\source\repos\pol\Debug\pol.exe
